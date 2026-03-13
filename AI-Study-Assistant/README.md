@@ -1,18 +1,25 @@
 # AI Coding Study Assistant
 
 ## 프로젝트 소개
+
 AI가 코드를 분석하고 개선점을 알려주는 프로그램입니다.
 
 ## 기능
+
 - 코드 설명
 - 문제점 분석
+- 시간복잡도 계산
 - 개선 코드 제안
+- 더 좋은 알고리즘이 있으면 제안
 
 ## 사용 방법
+
 1. Python 실행
 2. 코드 입력
-3. AI 분석 결과 확인
+3. 입력 마지막에는 END 입력
+4. AI 분석 결과 확인
 
 ## 실행 방법
+
 pip install -r requirements.txt
 python main.py
