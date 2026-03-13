@@ -21,6 +21,7 @@ AI가 코드를 분석하고 개선점을 알려주는 프로그램입니다.
 
 ## 실행 방법
 
-pip install -r requirements.txt
+프롬프트에서
 
-python main.py
+1. pip install -r requirements.txt
+2. python main.py
