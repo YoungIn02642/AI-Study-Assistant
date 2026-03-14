@@ -1,1 +1,1 @@
-PROMPT = "Review this C code"
+PROMPT = "Review this C code carefully"
