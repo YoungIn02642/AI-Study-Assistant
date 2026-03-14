@@ -1,5 +1,6 @@
 from ai_review import review_code
 
+print("UI feature test")
 code = """
 #include <stdio.h>
 int main(){
