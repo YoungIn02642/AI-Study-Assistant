@@ -1,2 +1,2 @@
 def review_code(code):
-    return "AI code review result"
+    return "AI reviewed successfully"
