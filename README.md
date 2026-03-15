@@ -23,5 +23,5 @@ cmd에서 Python 라이브러리 설치 (requirements.txt)
 
 pip install -r requirements.txt
 
-프로그램 실행
+해당 폴더로 가서 프로그램 실행
 python main.py
