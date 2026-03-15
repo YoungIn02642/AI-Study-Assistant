@@ -20,7 +20,6 @@ AI가 코드를 분석하고 개선점을 알려주는 프로그램입니다.
 ## 실행 방법
 
 cmd에서 Python 라이브러리 설치 (requirements.txt)<br>
-
 pip install -r requirements.txt
 
 해당 폴더로 가서 프로그램 실행<br>
