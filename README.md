@@ -19,5 +19,9 @@ AI가 코드를 분석하고 개선점을 알려주는 프로그램입니다.
 
 ## 실행 방법
 
+cmd에서 Python 라이브러리 설치 (requirements.txt)
+
 pip install -r requirements.txt
+
+프로그램 실행
 python main.py
